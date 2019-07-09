@@ -1,0 +1,31 @@
+<section class="container pr-1 pl-1">
+<h1 class="pt-5 pb-5 h1-responsive font-weight-bold text-center pl-1 pr-1 animated fadeInUp" > March 2019 </h1>
+
+<div class="row  pt-3  pr-2 pl-2">
+    <div class="col pt-5 pb-5 pr-2 pl-2"> <img src="https://lh5.googleusercontent.com/EtGFhGczbEV_wm14YOJ4VhrVgfmzJgz41MxojlVxo9gJemtw24sVL0Wb6DL0c4eZwZ9sV4hoyFYbEXNVYJmS-jNjcwSxzM2BFgDBBwZHGn4C-nk4xY-n0QITf9zTDRNqeMsDPUY" class="img-fluid "
+        alt="Not available"></div>
+    <div class="col pt-5 pb-5 pr-2 pl-2">
+    <h3 class="h1-responsive font-weight-bold text-center mb-5 animated wow fadeInUp ">Qlik Sense training program</h3>
+      
+      <div class="divider pt-3 pb-1 ml-auto"></div>
+      <p class=" text-center w-responsive mx-auto mb-5 wow fadeInUp">As a first step operation for AGI Data Analytics Club, A Business
+Analyst using Qlik Sense training program was conducted on 6 th
+&amp;8 th March 2019. 60 students from II B.Tech CSE were Attended
+the Program.</p>
+    </div>
+</div>
+
+
+<div class="row  pt-3  pr-2 pl-2">
+    <div class="col pt-5 pb-5 pr-2 pl-2"> <img src="https://lh6.googleusercontent.com/hzNEnNCV73YAuYJxCsp4gbvJ1VbXrj1A5ODYELIOewWa-L5cZ0V4jP6IDrny8ytPBv3LCNR9DWg_33tsR6fX9GaWrtD9ekcr_p-Zh76PPfbfQXHXU0zbihUXejZi5ZM1kh9yD0M" class="img-fluid "
+        alt="Not available"></div>
+    <div class="col pt-5 pb-5 pr-2 pl-2">
+    <h3 class="h1-responsive font-weight-bold text-center mb-5 animated wow fadeInUp "> Qlik sense Business Analyst Qualification Certification Exam</h3>
+      
+      <div class="divider pt-3 pb-1 ml-auto"></div>
+      <p class=" text-center w-responsive mx-auto mb-5 wow fadeInUp">Two-days training given to students, how to work on Qlik Sense
+tool, creating App, and training helped students to complete the
+Qlik sense Business Analyst Qualification Certification Exam.</p>
+    </div>
+</div>
+</section>
