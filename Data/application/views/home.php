@@ -63,6 +63,66 @@ events, program simulations, and guest lectures.</p>
 
 </section>
 <!--Section: about-->
+<!-- Inaug -->
+
+<section class="container pr-1 pl-1 pt-5 pb-5 ">
+ <!-- Container -->
+ <div class="container" >
+        <!-- Section heading -->
+        
+        <h2 class="h1-responsive font-weight-bold text-center mb-5 wow fadeInUp">INAUGURATION OF DATA ANALYTICS CLUB</h2>
+        <!-- Section description -->
+        <p class="  w-responsive mx-auto mb-5 ">The Department of Computer Science, AGI, inaugurated its technical
+club Data Analytics: Create, visualize, Analyse … on March 22 nd , 2019. The
+
+Chief Guest for the occasion was Mr.Pankaj Muthe, Program Manager,
+Academic Program, APAC Qlik, Mumbai.</p>
+
+<!-- Slideshow -->
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="<?php echo base_url()?>/assets/images/inaug/IMG_1403.JPG"
+        alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="<?php echo base_url() ?>/assets/images/inaug/IMG_1426"
+        alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="<?php echo base_url() ?>/assets/images/inaug/IMG_1285"
+        alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<!-- Slideshow -->
+     <p class="  w-responsive mx-auto mb-5 pt-3 pb-3"> The programme started with the invocation song by the students, it was
+followed by the dignitaries and the chief guest lighting the lamp to inaugurate
+the occasion. Among the dignitaries, the Director Dr. K.S.Rao, Dean of CSE &
+IT Dr. V.Vijaya kumar, HOD of CSE Dr. G.Vishnu Murthy, and the Chief
+Guest Mr.Pankaj Muthe. Next , We had the Data Analytics club Logo being
+launched by the Chief guest and Dignitaries on the dais.</p>
+      
+<p class="  w-responsive mx-auto mb-5 "> After the inauguration ceremony the Chief guest Mr. Pankaj Muthe also
+congratulated the Dept of Computer Science for the initiative of the club and
+distributed Business analyst Qualification certificates to students .The Chief
+Guest, Mr. Pankaj Muthe also delivered TechTalk of the Club on Data
+Analytics and its importance in the industry, advancement in the world of
+technology and IT industry.</p>
+    </div>
+    <!-- Container -->
+</section>
+
+
+<!-- Inaug -->
 
   <!--Section: Objectives-->
   <section id="objectives" class="py-5" >

@@ -72,6 +72,17 @@ p {
     .wow {
   visibility: hidden;
 }
+#loading {
+    position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+  transition: 1s ease;
+    background: url('<?php echo base_url()?>/assets/images/Preloader.gif ') center no-repeat #fff;
+}
+
 </style>
 <script>
 $('body').scrollspy({ target: '#navbar-example2' })
@@ -79,6 +90,10 @@ $('body').scrollspy({ target: '#navbar-example2' })
 </head>
 
 <body>
+<!-- Preloader -->
+<div id="loading">
+      </div>
+    
     <!-- Header -->
     <header <?php if($ViewContent==="home") { echo 'style="height:100%; "';} else { echo 'style="height:50%; "'; } ?> >
 
@@ -92,9 +107,6 @@ $('body').scrollspy({ target: '#navbar-example2' })
       <ul class="navbar-nav mx-auto">
         <li class="nav-item pr-3">
           <a class="nav-link active" href="<?php echo base_url();?>index.php/Home">Home <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item pr-3">
-          <a class="nav-link" href="<?php echo base_url();?>index.php/About">About</a>
         </li>
         
         <li class="nav-item pr-3">
@@ -186,21 +198,9 @@ $('body').scrollspy({ target: '#navbar-example2' })
         </div>
       <div class="row justify-content-center align-items-center  pb-5 pt-5">
         <!-- col 1 -->
-        <div class="col-md-4 mb-5 text-light">
-          <h3 class="mb-4 pt-2 ">About Data Analytics Club</h3>
-          <p class="mb-5"> The Data Analytics Club is a student-run Activity that provides resources for students interested in the
-         field of data analytics.</p>
-          <ul class="list-unstyled d-flex">
-            <li><a href="#" class="p-2"><i class="fab fa-twitter fa-fw blue-text"></i></a></li>
-            <li><a href="#" class="p-2"><i class="fab fa-facebook-f fa-fw blue-text"></i></a></li>
-            <li><a href="#" class="p-2"><i class="fab fa-linkedin fa-fw blue-text"></i></a></li>
-            
-          </ul>
-
-        </div>
-        <!-- col 2 -->
-        <div class="col-md-5 mb-5 pl-md-5 text-light">
-          <div class="mb-5 pb-1">
+        
+        <div class="col-md-4 mb-5  text-light">
+          <div class=" pb-1">
             <h3 class="mb-4">Contact </h3>
             <ul class="list-unstyled footer-link">
               <li class="d-block pb-2">
@@ -218,14 +218,23 @@ $('body').scrollspy({ target: '#navbar-example2' })
 
           
         </div>
+        <!-- col 2 -->
+        <div class="col-md-4 mb-5 text-light">
+          <h3 class="mb-4 mt-3">Quick Links</h3>
+          <ul class="list-unstyled text-light quicklinks">
+            <li><a href="<?php echo base_url();?>index.php/Achievements" class="nav-link " >Achievements</a></li>
+            <li><a href="<?php echo base_url();?>index.php/Events" class="nav-link">News and Events</a></li>
+            <li><a href="<?php echo base_url();?>index.php/Contact" class="nav-link">Contact</a></li>
+          </ul>
+        </div>
         <!-- col 3 -->
-        <div class="col-md-3 mb-5 text-light">
+        <div class="col-md-4 mb-5 text-light">
           <h3 class="mb-4 mt-3">Quick Links</h3>
           <ul class="list-unstyled text-light quicklinks">
             <li><a href="<?php echo base_url();?>index.php/Team" class="nav-link " >Organising Body</a></li>
             <li><a href="<?php echo base_url();?>index.php/Testimonials" class="nav-link">Testimonials</a></li>
             <li><a href="<?php echo base_url();?>index.php/Gallery" class="nav-link">Gallery</a></li>
-            <li><a href="<?php echo base_url();?>index.php/Contact" class="nav-link">Contact</a></li>
+            
           </ul>
         </div>
         
@@ -235,9 +244,7 @@ $('body').scrollspy({ target: '#navbar-example2' })
         </div>
 
       </div>
-      <div class="row justify-content-center align-items-center  pd-5 pt-5 justify-content-center text-center ">
-              <p class="grey-text" style="font-size:50%">Site developed by - <a href="#" target="blank" class="blue-grey-text">MassCoders</a></p>
-        </div>
+      
     </div>
     
   </footer>
@@ -259,6 +266,13 @@ $('body').scrollspy({ target: '#navbar-example2' })
   <script>
   new WOW().init();
   </script>
+  <script>
+  var loading = document.getElementById('loading');
+
+window.addEventListener('load',function() {
+    loading.style.display =  'none';
+})
+</script>
 </body>
 
 </html>

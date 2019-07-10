@@ -9,9 +9,7 @@
 <section class="text-center my-5 p-5 container">
 
   <!-- Section description -->
-  <p class="dark-grey-text w-responsive mx-auto mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-    Fugit, error amet numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam
-    eum porro a pariatur veniam.</p>
+  <p class="dark-grey-text w-responsive mx-auto mb-5"></p>
 
   <!-- Grid row -->
   <div class="row">
@@ -24,11 +22,12 @@
         <div class="card-up info-color"></div>
         <!--Avatar-->
         <div class="avatar mx-auto white">
-          <img src="<?php echo base_url() ?>assets/images/pp.jpg" class="rounded-circle img-fluid">
+          <!-- <img src="<?php echo base_url() ?>assets/images/pp.jpg" class="rounded-circle img-fluid"> -->
         </div>
         <div class="card-body">
           <!--Name-->
           <h4 class="font-weight-bold mb-4">Name 1</h4>
+          <h6 class="font-weight-ligt mb-4">extra info </h6>
           <hr>
           <!--Quotation-->
           <p class="dark-grey-text mt-4"><i class="fas fa-quote-left pr-2"></i>Lorem ipsum dolor sit amet eos
@@ -48,11 +47,12 @@
         </div>
         <!--Avatar-->
         <div class="avatar mx-auto white">
-          <img src=" <?php echo base_url() ?>assets/images/pp.jpg" class="rounded-circle img-fluid">
+          <!-- <img src=" <?php echo base_url() ?>assets/images/pp.jpg" class="rounded-circle img-fluid"> -->
         </div>
         <div class="card-body">
           <!--Name-->
           <h4 class="font-weight-bold mb-4">Name 2</h4>
+          <h6 class="font-weight-ligt mb-4">extra info </h6>
           <hr>
           <!--Quotation-->
           <p class="dark-grey-text mt-4"><i class="fas fa-quote-left pr-2"></i>Neque cupiditate assumenda in
@@ -71,11 +71,12 @@
         <div class="card-up indigo"></div>
         <!--Avatar-->
         <div class="avatar mx-auto white">
-          <img src="<?php echo base_url() ?>assets/images/pp.jpg" class="rounded-circle img-fluid">
+          <!-- <img src="<?php echo base_url() ?>assets/images/pp.jpg" class="rounded-circle img-fluid"> -->
         </div>
         <div class="card-body">
           <!--Name-->
           <h4 class="font-weight-bold mb-4">Name 3</h4>
+          <h6 class="font-weight-ligt mb-4">extra info </h6>
           <hr>
           <!--Quotation-->
           <p class="dark-grey-text mt-4"><i class="fas fa-quote-left pr-2"></i>Delectus impedit saepe officiis
