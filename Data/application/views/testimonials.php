@@ -60,8 +60,8 @@
         </div>
         <div class="card-body">
           <!--Name-->
-          <h4 class="font-weight-bold mb-4">Shirisha</h4>
-          <h6 class="font-weight-ligt mb-4">2nd CSE-A </h6>
+          <h4 class="font-weight-bold mb-4">Venella N</h4>
+          <h6 class="font-weight-ligt mb-4">3rd CSE-C</h6>
           <hr>
           <!--Quotation-->
           <div class="scroll-box">
