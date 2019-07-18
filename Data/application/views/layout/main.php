@@ -106,27 +106,27 @@ $('body').scrollspy({ target: '#navbar-example2' })
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mx-auto">
         <li class="nav-item pr-3">
-          <a class="nav-link active" href="<?php echo base_url();?>index.php/Home">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link active" href="<?php echo base_url();?>Home">Home <span class="sr-only">(current)</span></a>
         </li>
         
         <li class="nav-item pr-3">
-          <a class="nav-link" href="<?php echo base_url();?>index.php/Achievements">Achievements</a>
+          <a class="nav-link" href="<?php echo base_url();?>Achievements">Achievements</a>
         </li>
         <li class="nav-item pr-3">
-          <a class="nav-link" href="<?php echo base_url() ?>index.php/Team">Organising Body</a>
+          <a class="nav-link" href="<?php echo base_url() ?>Team">Organising Body</a>
         </li>
         <li class="nav-item pr-3">
-          <a class="nav-link" href="<?php echo base_url() ?>index.php/Gallery">Gallery</a>
+          <a class="nav-link" href="<?php echo base_url() ?>Gallery">Gallery</a>
         </li>
         <li class="nav-item pr-3">
-          <a class="nav-link" href="<?php echo base_url() ?>index.php/Testimonials">Testimonials</a>
+          <a class="nav-link" href="<?php echo base_url() ?>Testimonials">Testimonials</a>
         </li>
         
         <li class="nav-item pr-3">
-          <a class="nav-link" href="<?php echo base_url() ?>index.php/Events">News & Events</a>
+          <a class="nav-link" href="<?php echo base_url() ?>Events">News & Events</a>
         </li>
         <li class="nav-item pr-3">
-          <a class="nav-link" href="<?php echo base_url() ?>index.php/Contact">Contact Us</a>
+          <a class="nav-link" href="<?php echo base_url() ?>Contact">Contact Us</a>
         </li>
         
         
@@ -222,18 +222,18 @@ $('body').scrollspy({ target: '#navbar-example2' })
         <div class="col-md-4 mb-5 text-light">
           <h3 class="mb-4 mt-3">Quick Links</h3>
           <ul class="list-unstyled text-light quicklinks">
-            <li><a href="<?php echo base_url();?>index.php/Achievements" class="nav-link " >Achievements</a></li>
-            <li><a href="<?php echo base_url();?>index.php/Events" class="nav-link">News and Events</a></li>
-            <li><a href="<?php echo base_url();?>index.php/Contact" class="nav-link">Contact</a></li>
+            <li><a href="<?php echo base_url();?>Achievements" class="nav-link " >Achievements</a></li>
+            <li><a href="<?php echo base_url();?>Events" class="nav-link">News and Events</a></li>
+            <li><a href="<?php echo base_url();?>Contact" class="nav-link">Contact</a></li>
           </ul>
         </div>
         <!-- col 3 -->
         <div class="col-md-4 mb-5 text-light">
           <h3 class="mb-4 mt-3">Quick Links</h3>
           <ul class="list-unstyled text-light quicklinks">
-            <li><a href="<?php echo base_url();?>index.php/Team" class="nav-link " >Organising Body</a></li>
-            <li><a href="<?php echo base_url();?>index.php/Testimonials" class="nav-link">Testimonials</a></li>
-            <li><a href="<?php echo base_url();?>index.php/Gallery" class="nav-link">Gallery</a></li>
+            <li><a href="<?php echo base_url();?>Team" class="nav-link " >Organising Body</a></li>
+            <li><a href="<?php echo base_url();?>Testimonials" class="nav-link">Testimonials</a></li>
+            <li><a href="<?php echo base_url();?>Gallery" class="nav-link">Gallery</a></li>
             
           </ul>
         </div>
