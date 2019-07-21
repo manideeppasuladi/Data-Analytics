@@ -118,7 +118,7 @@
             <div class="row justify-content-center align-items-center text-center">
               <div class="col-sm-12 col-md-6 col-lg-4 mb-2 hvr-shadow-radial" >
                <div class="card">
-                <img class="card-img-top img-thumbnail rounded-circle  rounded-circle "   src="<?php echo base_url('assets/images/pp.jpg');?>" alt="Program_chair">
+                <img class="card-img-top img-thumbnail  "   src="<?php echo base_url('assets/images/Qlik.jpg');?>" alt="Program_chair">
                 <div class="card-body">
                   <h4 class="card-title" style="color: black;">Qlik Pvt. Ltd.</h4>
                   <h6 class="card-subtitle mb-2 text-body"></h6>
@@ -141,7 +141,7 @@
             <div class="row justify-content-center align-items-center text-center">
               <div class="col-sm-12 col-md-6 col-lg-4 mb-2 hvr-shadow-radial" >
                <div class="card">
-                <img class="card-img-top img-thumbnail rounded-circle  "   src="<?php echo base_url('assets/images/pp.jpg');?>" alt="Program_chair">
+                <img class="card-img-top img-thumbnail rounded-circle  "   src="<?php echo base_url('assets/images/IndustryExpert.JPG');?>" alt="Program_chair">
                 <div class="card-body">
                   <h4 class="card-title" style="color: black;">Mr. Pankaj Muthe</h4>
                   <h6 class="card-subtitle mb-2 text-body">APAC at Qlik</h6>

@@ -7,24 +7,24 @@
 <div class="container mb-5">
   <div class="row mt-3">
     <a href="#" data-toggle="lightbox" data-gallery="gallery" class="col-md-4" target="blank">
-      <img src="<?php echo base_url() ?>/assets/images/inaug/IMG_1285" class="img-fluid rounded">
+      <img src="<?php echo base_url() ?>/assets/images/inaug/IMG_1285.JPG" class="img-fluid rounded">
     </a>
     <a href="#" data-toggle="lightbox" data-gallery="gallery" class="col-md-4" target="blank">
-      <img src="<?php echo base_url() ?>/assets/images/inaug/IMG_1354" class="img-fluid rounded">
+      <img src="<?php echo base_url() ?>/assets/images/inaug/IMG_1354.JPG" class="img-fluid rounded">
     </a>
     <a href="#" data-toggle="lightbox" data-gallery="gallery" class="col-md-4" target="blank">
-      <img src="<?php echo base_url() ?>/assets/images/inaug/IMG_1401" class="img-fluid rounded">
+      <img src="<?php echo base_url() ?>/assets/images/inaug/IMG_1401.JPG" class="img-fluid rounded">
     </a>
   </div>
   <div class="row mt-3">
     <a href="#" data-toggle="lightbox" data-gallery="gallery" class="col-md-4" target="blank">
-      <img src="<?php echo base_url() ?>/assets/images/inaug/IMG_1426" class="img-fluid rounded">
+      <img src="<?php echo base_url() ?>/assets/images/inaug/IMG_1426.JPG" class="img-fluid rounded">
     </a>
     <a href="#" data-toggle="lightbox" data-gallery="gallery" class="col-md-4" target="blank">
-      <img src="<?php echo base_url() ?>/assets/images/inaug/IMG_1411" class="img-fluid rounded">
+      <img src="<?php echo base_url() ?>/assets/images/inaug/IMG_1411.JPG" class="img-fluid rounded">
     </a>
     <a href="#" data-toggle="lightbox" data-gallery="gallery" class="col-md-4" target="blank">
-      <img src="<?php echo base_url() ?>/assets/images/inaug/IMG_1414" class="img-fluid rounded">
+      <img src="<?php echo base_url() ?>/assets/images/inaug/IMG_1414.JPG" class="img-fluid rounded">
     </a>
   </div>
   <div class="row mt-3">

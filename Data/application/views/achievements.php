@@ -1,5 +1,8 @@
 <section class="container pr-1 pl-1">
-
+<marquee class="pt-3 pb-3">
+<b class="h3 "><a href="<?php echo base_url()?>Achievements/#certifiedMembers">53 members successfully certified in Qlik Sense
+Business Analyst Qualification.</a></b>
+</marquee>
 <h1 class="pt-5 pb-5 h1-responsive font-weight-bold text-center pl-1 pr-1 animated fadeInUp" > DATA ANALYTICS CLUB ACHIEVEMENTS </h1>
 <div class="table-responsive text-nowrap">
   <table class="table ">
@@ -131,22 +134,22 @@ Qlik.</td>
 <h1 class=" pt-5 pb-5 h1-responsive font-weight-bold text-center pl-1 pr-1 animated fadeInUp">CERTIFIED CORE TEAM </h1>
   <div class="row mt-3 pt-3 justify-content-center">
     <a href="#" data-toggle="lightbox" data-gallery="gallery" class="col-md-4" target="blank">
-      <img src="<?php echo base_url() ?>/assets/images/certificates/1.jpg" class="img-fluid rounded">
+      <img src="<?php echo base_url() ?>/assets/images/certificates/1.JPG" class="img-fluid rounded">
     </a>
     <a href="#" data-toggle="lightbox" data-gallery="gallery" class="col-md-4" target="blank">
-      <img src="<?php echo base_url() ?>/assets/images/certificates/2.jpg" class="img-fluid rounded">
+      <img src="<?php echo base_url() ?>/assets/images/certificates/2.JPG" class="img-fluid rounded">
     </a>
     
   </div>
   <div class="row mt-3 pt-3 justify-content-center">
     <a href="#" data-toggle="lightbox" data-gallery="gallery" class="col-md-4" target="blank">
-      <img src="<?php echo base_url() ?>/assets/images/certificates/3.jpg" class="img-fluid rounded">
+      <img src="<?php echo base_url() ?>/assets/images/certificates/3.JPG" class="img-fluid rounded">
     </a>
     <a href="#" data-toggle="lightbox" data-gallery="gallery" class="col-md-4" target="blank">
-      <img src="<?php echo base_url() ?>/assets/images/certificates/4.jpg" class="img-fluid rounded">
+      <img src="<?php echo base_url() ?>/assets/images/certificates/4.JPG" class="img-fluid rounded">
     </a>
     <a href="#" data-toggle="lightbox" data-gallery="gallery" class="col-md-4" target="blank">
-      <img src="<?php echo base_url() ?>/assets/images/certificates/5.jpg" class="img-fluid rounded">
+      <img src="<?php echo base_url() ?>/assets/images/certificates/5.JPG" class="img-fluid rounded">
     </a>
   </div>
   
@@ -160,7 +163,7 @@ $(document).on("click", '[data-toggle="lightbox"]', function(event) {
 </script>
 
 <!-- Certified Students List -->
-<section class="container pr-1 pl-1 pt-5">
+<section class="container pr-1 pl-1 pt-5" id="certifiedMembers">
         <h1 class=" pt-5 pb-5 h1-responsive font-weight-bold text-center pl-1 pr-1 animated fadeInUp">CERTIFIED STUDENTS LIST</h1>
       <div class="table-responsive text-nowrap">
         <table class="table " id="studentlist">

@@ -86,11 +86,11 @@ Academic Program, APAC Qlik, Mumbai.</p>
         alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="<?php echo base_url() ?>/assets/images/inaug/IMG_1426"
+      <img class="d-block w-100" src="<?php echo base_url() ?>/assets/images/inaug/IMG_1426.JPG"
         alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="<?php echo base_url() ?>/assets/images/inaug/IMG_1285"
+      <img class="d-block w-100" src="<?php echo base_url() ?>/assets/images/inaug/IMG_1285.JPG"
         alt="Third slide">
     </div>
   </div>
