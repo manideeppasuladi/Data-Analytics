@@ -30,7 +30,7 @@
         <div class="card-body align-items-start">
           <!--Name-->
           <h4 class="font-weight-bold mb-4">Manideep P</h4>
-          <h6 class="font-weight-ligt mb-4">4th CSE-B </h6>
+          <h6 class="font-weight-ligt mb-4">IV CSE-B </h6>
           <hr>
           <!--Quotation-->
           <div class="scroll-box">
@@ -61,7 +61,7 @@
         <div class="card-body">
           <!--Name-->
           <h4 class="font-weight-bold mb-4">Venella N</h4>
-          <h6 class="font-weight-ligt mb-4">3rd CSE-C</h6>
+          <h6 class="font-weight-ligt mb-4">III CSE-C </h6>
           <hr>
           <!--Quotation-->
           <div class="scroll-box">
@@ -89,7 +89,7 @@
         <div class="card-body">
           <!--Name-->
           <h4 class="font-weight-bold mb-4">Sreeja Reddy S</h4>
-          <h6 class="font-weight-ligt mb-4">3rd CSE-C</h6>
+          <h6 class="font-weight-ligt mb-4">III CSE-C</h6>
           <hr>
           <!--Quotation-->
           <div class="scroll-box">
