@@ -1,7 +1,7 @@
 <section class="container pr-1 pl-1">
 <marquee class="pt-3 pb-3">
-<b class="h3 "><a href="<?php echo base_url()?>Achievements/#certifiedMembers">53 members successfully certified in Qlik Sense
-Business Analyst Qualification.</a></b>
+<b class="h3 ">53 members successfully certified in Qlik Sense
+Business Analyst Qualification.</b>
 </marquee>
 <h1 class="pt-5 pb-5 h1-responsive font-weight-bold text-center pl-1 pr-1 animated fadeInUp" > DATA ANALYTICS CLUB ACHIEVEMENTS </h1>
 <div class="table-responsive text-nowrap">
