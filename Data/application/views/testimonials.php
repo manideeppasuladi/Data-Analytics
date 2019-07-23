@@ -25,7 +25,7 @@
         <div class="card-up info-color"></div>
         <!--Avatar-->
         <div class="avatar mx-auto white">
-          <!-- <img src="<?php echo base_url() ?>assets/images/pp.jpg" class="rounded-circle img-fluid"> -->
+           <img src="<?php echo base_url() ?>assets/images/testimony/manideep.jpg" class="rounded-circle img-fluid"> 
         </div>
         <div class="card-body align-items-start">
           <!--Name-->
@@ -56,7 +56,7 @@
         </div>
         <!--Avatar-->
         <div class="avatar mx-auto white">
-          <!-- <img src=" <?php echo base_url() ?>assets/images/pp.jpg" class="rounded-circle img-fluid"> -->
+           <img src=" <?php echo base_url() ?>assets/images/testimony/Vennala.jpeg" class="rounded-circle img-fluid"> 
         </div>
         <div class="card-body">
           <!--Name-->
@@ -84,7 +84,7 @@
         <div class="card-up indigo"></div>
         <!--Avatar-->
         <div class="avatar mx-auto white">
-          <!-- <img src="<?php echo base_url() ?>assets/images/pp.jpg" class="rounded-circle img-fluid"> -->
+           <img src="<?php echo base_url() ?>assets/images/testimony/Sreeja.jpeg" class="rounded-circle img-fluid"> 
         </div>
         <div class="card-body">
           <!--Name-->
