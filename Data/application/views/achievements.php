@@ -161,10 +161,13 @@ $(document).on("click", '[data-toggle="lightbox"]', function(event) {
   $(this).ekkoLightbox();
 });
 </script>
+<!--  -->
 
 <!-- Certified Students List -->
 <section class="container pr-1 pl-1 pt-5" id="certifiedMembers">
         <h1 class=" pt-5 pb-5 h1-responsive font-weight-bold text-center pl-1 pr-1 animated fadeInUp">CERTIFIED STUDENTS LIST</h1>
+      <img src="<?php echo base_url() ?>/assets/images/events/students.JPG" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="">
+      <div class="pb-5"></div> 
       <div class="table-responsive text-nowrap">
         <table class="table " id="studentlist">
           <thead>

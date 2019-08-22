@@ -1,9 +1,11 @@
  
  <div class="main" data-spy="scroll" data-target="#navbar-example2" class="scrollspy-example z-depth-1 mt-4" data-offset="0">
-
+<!-- We from Data Analytics Club are happy and glad to share that an article has been published by Qlik Community about the Club and the Inauguration. -->
  
 <div class="container" >
-
+<marquee class="pt-3 pb-3">
+<b class="h3 "><a href="<?php echo base_url() ?>Events">Read more about the article which has been published by Qlik Community.</a></b>
+</marquee>
 <!--Section: Main info-->
 <section class="mt-5 wow fadeIn" id="about">
 

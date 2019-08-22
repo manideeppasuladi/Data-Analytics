@@ -3,7 +3,11 @@
 .body .card{
   height:25em; 
   padding-bottom: 1em;
-}</style>
+}
+.industry .card {
+  height: 28em;
+}
+</style>
  <div class="container pt-5 pb-5" id="organisingBody">
         
         <div class="container">
@@ -96,7 +100,7 @@
             </div>
            
             <hr>
-        <div class="container">
+        <div class="container industry">
          
         <div class="row justify-content-center align-items-center text-center">
         <div class="col-sm-12 col-md-6 col-lg-4 mb-2 hvr-shadow-radial" >

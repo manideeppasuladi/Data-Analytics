@@ -1,3 +1,12 @@
+<section class="container pt-5 pr-1 pl-1">
+<h3 class="h1-responsive font-weight-bold text-center mb-5 animated wow fadeInUp ">Latest News</h3>
+<p class="h3"><i class="fas fa-quote-left pr-2"></i> We from Data Analytics Club are happy and glad 
+to share that an article has been published by Qlik Community about the Club and the Inauguration. </p>
+<div class="row justify-content-center">
+<a class="btn btn-primary " href="https://community.qlik.com/t5/Qlik-Academic-Program-Blog/Data-analytics-club-inauguration-at-Anurag-Group-of-Institutions/bc-p/1592275" target="_blank">Click Here</a> 
+</div>
+</section>
+
 <section class="container pr-1 pl-1">
 <h1 class="pt-5 pb-5 h1-responsive font-weight-bold text-center pl-1 pr-1 animated fadeInUp" > March 2019 </h1>
 
