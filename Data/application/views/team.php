@@ -1,11 +1,19 @@
  <!-- Organising Body -->
 <style>
 .body .card{
-  height:25em; 
+  height:20rem; 
   padding-bottom: 1em;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
 }
-.industry .card {
-  height: 28em;
+.industry .card , .lead .card{
+  height: 23rem;
+}
+
+.body .card-img-top{
+  max-width: 70%;
+  height: auto;
 }
 </style>
  <div class="container pt-5 pb-5" id="organisingBody">
@@ -14,8 +22,8 @@
           <center>
           <h2 class="h1-responsive font-weight-bold text-center mb-5 wow fadeInUp">FACULTY LEAD</h2>
             <div class="row justify-content-center align-items-center text-center">
-              <div class="col-sm-12 col-md-6 col-lg-4 mb-2 hvr-shadow-radial" >
-               <div class="card">
+              <div class="col-sm-12 col-md-3 col-lg-3 mb-2 hvr-shadow-radial" >
+               <div class="lead card">
                 <img class="card-img-top img-thumbnail rounded-circle  "   src="<?php echo base_url('assets/images/Lead.JPG');?>" alt="Program_chair">
                 <div class="card-body">
                   <h4 class="card-title" style="color: black;">Mrs. B.Jyothi</h4>
@@ -39,7 +47,7 @@
                     <img class="card-img-top img-thumbnail rounded-circle  "   src="<?php echo base_url('assets/images/1.jpeg');?>" alt="Chairman">
                     <div class="card-body">
                       <h4 class="card-title" style="color: black;">Mr. J Shashidhar Reddy  </h4>
-                      <h6 class="card-subtitle mb-2 text-body">President,III B.Tech</h6>
+                      <h6 class="card-subtitle mb-2 text-body">President , III B.Tech.</h6>
                     </div>
                   </div>
                 </div>
@@ -49,7 +57,7 @@
                     <img class="card-img-top img-thumbnail rounded-circle  "  src="<?php echo base_url('assets/images/2.jpeg');?>" alt="Secretary">
                     <div class="card-body">
                       <h4 class="card-title" style="color: black;">Mr. Aditya</h4>
-                      <h6 class="card-subtitle mb-2 text-body">Vice President,III B.Tech </h6>
+                      <h6 class="card-subtitle mb-2 text-body">Vice President , III B.Tech. </h6>
                     </div>
                   </div>
                 </div>
@@ -58,7 +66,7 @@
                   <img class="card-img-top img-thumbnail rounded-circle  "   src="<?php echo base_url('assets/images/3.jpeg');?>" alt="Director">
                   <div class="card-body">
                     <h4 class="card-title" style="color: black;">Ms.Keerthi kalla  </h4>
-                    <h6 class="card-subtitle mb-2 text-body">Secretary,III B.Tech</h6>
+                    <h6 class="card-subtitle mb-2 text-body">Marketing Coordinator , III B.Tech.</h6>
                   </div>
                   
                 </div>
@@ -69,7 +77,7 @@
                   <img class="card-img-top img-thumbnail rounded-circle  "   src="<?php echo base_url('assets/images/6.jpeg');?>" alt="Director">
                   <div class="card-body">
                     <h4 class="card-title" style="color: black;">Ms. L Sai Shivani </h4>
-                    <h6 class="card-subtitle mb-2 text-body">Technical Secretary,III B.Tech</h6>
+                    <h6 class="card-subtitle mb-2 text-body">Technical Secretary , III B.Tech.</h6>
                   </div>
                   
                 </div>
@@ -77,20 +85,20 @@
 
               <div class="col-sm-12 col-md-3 col-lg-3 mb-2 hvr-shadow-radial" >
                <div class="card">
-                <img class="card-img-top img-thumbnail rounded-circle  "   src="<?php echo base_url('assets/images/4.jpeg');?>" alt="Program_chair">
+                <img class="card-img-top img-thumbnail rounded-circle  "   src="<?php echo base_url('assets/images/4.jpg');?>" alt="Program_chair">
                 <div class="card-body">
                   <h4 class="card-title" style="color: black;">Ms.C.Anusha</h4>
-                  <h6 class="card-subtitle mb-2 text-body">Event Hospitality,III Btech</h6>
+                  <h6 class="card-subtitle mb-2 text-body">Event Hospitality , III B.Tech.</h6>
                 </div>
               </div>
             </div>
         
             <div class="col-sm-12 col-md-3 col-lg-3 mb-2 hvr-shadow-radial" >
              <div class="card">
-              <img class="card-img-top img-thumbnail rounded-circle   "   src="<?php echo base_url('assets/images/5.jpeg');?>" alt="Program_chair">
+              <img class="card-img-top img-thumbnail rounded-circle "   src="<?php echo base_url('assets/images/5.jpeg');?>" alt="Program_chair">
               <div class="card-body">
                 <h4 class="card-title" style="color: black;">Mr.  Srikar</h4>
-                <h6 class="card-subtitle mb-2 text-body">Event Hospitality,III Btech</h6>
+                <h6 class="card-subtitle mb-2 text-body">Event Hospitality , III B.Tech.</h6>
               </div>
             </div>
           </div>
@@ -112,7 +120,7 @@
         </div>
             
             <div class="row justify-content-center align-items-center text-center">
-              <div class="col-sm-12 col-md-6 col-lg-4 mb-2 hvr-shadow-radial" >
+              <div class="col-sm-12 col-md-3 col-lg-3 mb-2 hvr-shadow-radial" >
               
                <div class="card">
                 <img class="card-img-top img-thumbnail  "   src="<?php echo base_url('assets/images/Qlik.jpg');?>" alt="Program_chair">
@@ -124,7 +132,7 @@
               </div>
               
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-4 mb-2 hvr-shadow-radial " >
+            <div class="col-sm-12 col-md-3 col-lg-3 mb-2 hvr-shadow-radial " >
             
                <div class="card">
                 <img class="card-img-top img-thumbnail rounded-circle  "   src="<?php echo base_url('assets/images/IndustryExpert.JPG');?>" alt="Program_chair">
@@ -138,13 +146,8 @@
           </div>
 
         </div>
-        <!--steering committee-->
         
-       
-        
-        <!--end of steering committee-->
         <hr>
         
         </div>
         
-              <!-- /Organising Body -->
